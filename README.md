@@ -60,3 +60,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Instalation database migration
+1. buka cmd, masuk ke directory folder ini contoh : cd C:\xampp\htdocs\tech_event
+2. lalu ketikan : php artisan migrate
+3. lalu ketikan : php artisan serve
+4. buka browser ketikkan localhost:8000
